@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AllTestsSuite" parallel="tests">
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="BookDepositoryTest"/>
+        </classes>
+    </test>
+    <test name="OperaTest">
+        <parameter name="browser" value="opera"/>
+        <classes>
+            <class name="BookDepositoryTest"/>
+        </classes>
+    </test>
+</suite>
