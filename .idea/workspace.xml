@@ -4,106 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef46d75e-3793-4d78-9617-7c29c1cc2d1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/bcpkix-jdk15on-1.64.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/bcprov-jdk15on-1.64.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/commons-compress-1.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/commons-io-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/commons-lang3-3.12.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/dec-0.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/docker-java-3.2.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/docker-java-api-3.2.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/docker-java-core-3.2.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/docker-java-transport-3.2.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/docker-java-transport-httpclient5-3.2.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/gson-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/guava-19.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/httpclient5-5.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/httpcore5-5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/httpcore5-h2-5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/jackson-annotations-2.10.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/jackson-core-2.10.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/jackson-databind-2.10.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/jcl-over-slf4j-1.7.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/jna-5.12.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/slf4j-api-2.0.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/jar_files/webdrivermanager-5.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/java/BookDepositoryAdvancedSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/java/BookDepositoryBasketPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/java/BookDepositoryBestsellerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/java/BookDepositoryCheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/java/BookDepositoryHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/java/BookDepositoryItemPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/java/BookDepositorySearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/src/test/java/BookDepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/BookDepositoryAdvancedSearchPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/BookDepositoryBasketPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/BookDepositoryBestsellerPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/BookDepositoryCheckoutPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/BookDepositoryHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/BookDepositoryItemPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/BookDepositorySearchPage$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/BookDepositorySearchPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/classes/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/AllTestsSuite/ChromeTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/AllTestsSuite/ChromeTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/AllTestsSuite/FirefoxTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/AllTestsSuite/FirefoxTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/AllTestsSuite/OperaTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/AllTestsSuite/OperaTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/AllTestsSuite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/junitreports/TEST-BookDepositoryTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/ChromeTest.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/FirefoxTest.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/OperaTest.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/AllTestsSuite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/target/test-classes/BookDepositoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiTTPP_Projekt/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ef46d75e-3793-4d78-9617-7c29c1cc2d1b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Marija/Fakultet/1_semestar-diplomski/Metode i tehnike testiranja programske podrške/Projekt/MiTTP_Projekt_git/MiTTPP_Projekt/MiTTPP_Projekt"
+    "last_opened_file_path": "C:/Users/Marija/Fakultet/1_semestar-diplomski/Metode i tehnike testiranja programske podrške/Projekt/MiTTP_Projekt_git/MiTTPP_Projekt"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
